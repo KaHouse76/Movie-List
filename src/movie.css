@@ -1,0 +1,41 @@
+.cardImage {
+    width: 100%;
+    height: auto;
+}
+
+.card {
+    height: 100%;
+    color: white;
+}
+
+body {
+    background-color: black;
+}
+
+H1 {
+    color: white;
+}
+
+.cardLink {
+    color: white;
+}
+
+h1 {
+    color: white;
+    text-align: left;
+}
+
+h6 {
+    color: white;
+    text-align: left;
+}
+
+.formLabel {
+    color: white;
+    float: left;
+}
+
+.favImg{
+    width: 30px;
+    height: 30px;
+}
