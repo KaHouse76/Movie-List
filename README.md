@@ -2,13 +2,11 @@
 
 A movie listing website which allow user to view and rate movies
 
+In \src\server, you start the api:
+
+### `node index.js`
+
 In the project directory, you can run:
-
-Start the api:
-
-### `\src\server>node index.js`
-
-Start website:
 
 ### `npm start`
 
